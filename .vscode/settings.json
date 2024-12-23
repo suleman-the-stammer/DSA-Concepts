@@ -1,0 +1,8 @@
+{
+    "debug.onTaskErrors": "showErrors",
+    "files.associations": {
+        "iostream": "cpp",
+        "algorithm": "cpp"
+    },
+    "C_Cpp.errorSquiggles": "enabled"
+}
